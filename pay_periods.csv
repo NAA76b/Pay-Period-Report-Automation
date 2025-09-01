@@ -1,5 +1,5 @@
 Pay Period,PP Start Date,PP End Date,Report Due Date,Reporting Deadline Text,PP Close Date,Initial Pull (Wed),Final Pull & Email (Mon),Is the Pay Period Complete?
 16,2025-07-13,2025-07-26,2025-07-28,"ITR reporting due by 11:59 pm ET on Monday, July 28",2025-07-26,2025-07-30,2025-07-28,Yes
 17,2025-07-27,2025-08-09,2025-08-11,"ITR reporting due by 11:59 pm ET on Monday, August 11",2025-08-09,2025-08-13,2025-08-11,No
-18,2025-08-10,2025-08-23,2025-08-25,"ITR reporting due by 11:59 pm ET on Monday, August 25",2025-08-23,2025-08-27,2025-08-25,Not Started
-19,2025-08-24,2025-09-06,2025-09-08,"ITR reporting due by 11:59 pm ET on Monday, September 08",2025-09-06,2025-09-10,2025-09-08,Not Started
+18,2025-08-10,2025-08-23,2025-08-25,"ITR reporting due by 11:59 pm ET on Monday, August 25",2025-08-23,2025-08-27,2025-08-25,No
+19,2025-08-24,2025-09-06,2025-09-08,"ITR reporting due by 11:59 pm ET on Monday, September 08",2025-09-06,2025-09-10,2025-09-08,No

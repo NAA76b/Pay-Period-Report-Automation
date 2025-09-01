@@ -1,5 +1,3 @@
-customtkinter
-exchangelib
 pandas
 openpyxl
 rapidfuzz
